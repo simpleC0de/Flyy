@@ -1,0 +1,8 @@
+main: TP.TP.TP
+author: GoRoK
+version: 1.0
+name: Test
+commands:
+  fly:
+    usage: /<command>
+    description: Bestimme den Flugmodus eines Spielers.
